@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1726188382 source:c:\users\usuario\desktop\estrutura de dados i\implementando pilhas\pilhas\pilha.c
+	<stdio.h>
+	<stdlib.h>
+	"pilha.h"
+
+1726188364 c:\users\usuario\desktop\estrutura de dados i\implementando pilhas\pilhas\pilha.h
+
+1726188393 source:c:\users\usuario\desktop\estrutura de dados i\implementando pilhas\pilhas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pilha.h"
+
