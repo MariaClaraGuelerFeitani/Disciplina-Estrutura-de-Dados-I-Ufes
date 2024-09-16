@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1723991873 source:c:\users\usuario\desktop\estrutura de dados i\implementando as listas\lista encadeada\listaencadeada2\arquivo.c
+	<stdio.h>
+	<stdlib.h>
+	"arquivo.h"
+
+1723991976 c:\users\usuario\desktop\estrutura de dados i\implementando as listas\lista encadeada\listaencadeada2\arquivo.h
+	<stdio.h>
+	<stdlib.h>
+
+1723954297 source:c:\users\usuario\desktop\estrutura de dados i\implementando as listas\lista encadeada\listaencadeada2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arquivo.h"
+

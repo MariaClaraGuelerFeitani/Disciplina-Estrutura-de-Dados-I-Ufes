@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1723948846 source:c:\users\usuario\desktop\estrutura de dados i\implementando as listas\lista estática ou linear\listaestatica2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arquivo.h"
+
+1723948846 c:\users\usuario\desktop\estrutura de dados i\implementando as listas\lista estática ou linear\listaestatica2\arquivo.h
+	<stdio.h>
+	<stdlib.h>
+
+1723948855 source:c:\users\usuario\desktop\estrutura de dados i\implementando as listas\lista estática ou linear\listaestatica2\arquivo.c
+	<stdio.h>
+	<stdlib.h>
+	"arquivo.h"
+
