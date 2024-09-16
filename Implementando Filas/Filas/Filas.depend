@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1726341536 source:c:\users\usuario\desktop\estrutura de dados i\implementando filas\filas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"filas.h"
+
+1726341536 source:c:\users\usuario\desktop\estrutura de dados i\implementando filas\filas\filas.c
+	<stdio.h>
+	<stdlib.h>
+	"filas.h"
+
+1726341562 c:\users\usuario\desktop\estrutura de dados i\implementando filas\filas\filas.h
+
